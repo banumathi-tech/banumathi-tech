@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @banumathi-tech
-- 👀 I’m interested in learning,java c++ and Java
+- 👀 I’m interested in learning python, c++ and Java
 - 🌱 I’m currently learning ..c++.
 - 💞️ I’m looking to collaborate on GitHub.
 - 📫 How to reach me . through my friend.
